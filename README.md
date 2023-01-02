@@ -49,14 +49,23 @@ EIP 4973 account bound token
 [EIP 5727 semi funsible soul bound token](https://eips.ethereum.org/EIPS/eip-5727)
 
 [React component for google oauth](https://www.npmjs.com/package/react-google-login)
+
 [Npm package for googl api client](https://www.npmjs.com/package/gapi-script)
+
 [Jwt decode (after user logged in we get credential. We can decode to get user data)](https://www.npmjs.com/package/jwt-decode)
+
 [React toast](https://react-hot-toast.com/docs)
+
 [React router dom](https://www.npmjs.com/package/react-router-dom)
+
 [RSA key(this is based on cryptico)](https://www.npmjs.com/package/@daotl/cryptico)
+
 [RSA key(I couldn’t use this because I couldn’t find crypto library with this)](https://www.npmjs.com/package/cryptico)
+
 [Password validator](https://www.npmjs.com/package/password-validator)
+
 [Dot env](https://www.npmjs.com/package/dotenv)
+
 [Query string](https://www.npmjs.com/package/query-string)
 
 
