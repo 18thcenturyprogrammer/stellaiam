@@ -23,25 +23,74 @@ Stellaiam smart contract address on mumbai test net : 0x423B1375cdD7041AA9d4C54D
 ---
 <br/><br/>
 <br/><br/>
+<br/><br/>
 
-![sc2](http://jacob-yo.net/wp-content/uploads/2023/01/sc2.png)
 ### connecting Google Oauth
+![sc2](http://jacob-yo.net/wp-content/uploads/2023/01/sc2.png)
 
-![sc3](http://jacob-yo.net/wp-content/uploads/2023/01/sc3.png)
+---
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 ### retrieved data from Google
+![sc3](http://jacob-yo.net/wp-content/uploads/2023/01/sc3.png)
 
-![sc4](http://jacob-yo.net/wp-content/uploads/2023/01/sc4.png)
+---
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 ### user select data which will be exposed in Soul bound token
+![sc4](http://jacob-yo.net/wp-content/uploads/2023/01/sc4.png)
 
-![sc5](http://jacob-yo.net/wp-content/uploads/2023/01/sc5.png)
+---
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 ### minting Soul bound token
+![sc5](http://jacob-yo.net/wp-content/uploads/2023/01/sc5.png)
 
-![sc6](http://jacob-yo.net/wp-content/uploads/2023/01/sc6.png)
+---
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 ### paying fee and send transaction to smart contract
+![sc6](http://jacob-yo.net/wp-content/uploads/2023/01/sc6.png)
 
+---
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+### showing user's tokens
 ![sc7](http://jacob-yo.net/wp-content/uploads/2023/01/sc7.png)
+
+---
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+### opensea showing minted Soul bound token
 ![sc8](http://jacob-yo.net/wp-content/uploads/2023/01/sc8.png)
+
+---
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+### we can check user's exposed data in opensea
 ![sc9](http://jacob-yo.net/wp-content/uploads/2023/01/sc9.png)
+
+---
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+### showing smart contract implemented ERC 4671 
 ![sc10](http://jacob-yo.net/wp-content/uploads/2023/01/sc10.png)
+
 ![sc11](http://jacob-yo.net/wp-content/uploads/2023/01/sc11.png)
 
