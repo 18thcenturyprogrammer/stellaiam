@@ -35,12 +35,30 @@ Stellaiam smart contract address on mumbai test net : 0x423B1375cdD7041AA9d4C54D
 #### References 
 
 Ethereum improvement proposals
+
 [EIP 4671 soul bound token](https://eips.ethereum.org/EIPS/eip-4671)
+
 EIP 4973 account bound token 
+
 [EIP 5114 soul bound badge](https://eips.ethereum.org/EIPS/eip-5114)
+
 [EIP 5192 minimal soul bound token](https://eips.ethereum.org/EIPS/eip-5192)
+
 [EIP 5484 consesual soul bound token](https://eips.ethereum.org/EIPS/eip-5484)
+
 [EIP 5727 semi funsible soul bound token](https://eips.ethereum.org/EIPS/eip-5727)
+
+[React component for google oauth](https://www.npmjs.com/package/react-google-login)
+[Npm package for googl api client](https://www.npmjs.com/package/gapi-script)
+[Jwt decode (after user logged in we get credential. We can decode to get user data)](https://www.npmjs.com/package/jwt-decode)
+[React toast](https://react-hot-toast.com/docs)
+[React router dom](https://www.npmjs.com/package/react-router-dom)
+[RSA key(this is based on cryptico)](https://www.npmjs.com/package/@daotl/cryptico)
+[RSA key(I couldn’t use this because I couldn’t find crypto library with this)](https://www.npmjs.com/package/cryptico)
+[Password validator](https://www.npmjs.com/package/password-validator)
+[Dot env](https://www.npmjs.com/package/dotenv)
+[Query string](https://www.npmjs.com/package/query-string)
+
 
 
 ***
