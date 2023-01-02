@@ -34,7 +34,7 @@ Stellaiam smart contract address on mumbai test net : 0x423B1375cdD7041AA9d4C54D
 
 #### References 
 
-Ethereum improvement proposals
+##### Ethereum improvement proposals
 
 [EIP 4671 soul bound token](https://eips.ethereum.org/EIPS/eip-4671)
 
@@ -47,6 +47,8 @@ EIP 4973 account bound token
 [EIP 5484 consesual soul bound token](https://eips.ethereum.org/EIPS/eip-5484)
 
 [EIP 5727 semi funsible soul bound token](https://eips.ethereum.org/EIPS/eip-5727)
+
+##### 3rd libraries
 
 [React component for google oauth](https://www.npmjs.com/package/react-google-login)
 
