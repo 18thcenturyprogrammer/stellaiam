@@ -17,6 +17,32 @@ Also, this project shows what SBT user has and how contract read fuctions work.
 Stellaiam smart contract address on mumbai test net : 0x423B1375cdD7041AA9d4C54D039AAA00f9C12FD5
 
 [mumbai scan 0x423B1375cdD7041AA9d4C54D039AAA00f9C12FD5](https://mumbai.polygonscan.com/address/0x423b1375cdd7041aa9d4c54d039aaa00f9c12fd5)
+
+#### Tech stack
+- UI : react, react semantic UI
+- Smart contract : solidity
+- Deploy network : mumbai
+- Text editor : vbcode, remix
+
+#### Minting SBT process
+1. User click OAUTH button (frontend) -> 
+2. OAUTH process (3rd party)-> 
+3. User finished OAUTH process successfully -> 
+4. User select data which will be exposed ->
+5. Save SBT data into pinata ->
+6. Write Pinata Uri , crypted data (all), expose data in smart contract 
+
+#### References 
+
+Ethereum improvement proposals
+[EIP 4671 soul bound token](https://eips.ethereum.org/EIPS/eip-4671)
+EIP 4973 account bound token 
+[EIP 5114 soul bound badge](https://eips.ethereum.org/EIPS/eip-5114)
+[EIP 5192 minimal soul bound token](https://eips.ethereum.org/EIPS/eip-5192)
+[EIP 5484 consesual soul bound token](https://eips.ethereum.org/EIPS/eip-5484)
+[EIP 5727 semi funsible soul bound token](https://eips.ethereum.org/EIPS/eip-5727)
+
+
 ***
 # Screen shots
 ### connecting metamask wallet
