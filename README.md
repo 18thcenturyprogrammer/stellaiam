@@ -21,8 +21,9 @@ Stellaiam smart contract address on mumbai test net : 0x423B1375cdD7041AA9d4C54D
 ![sc1](http://jacob-yo.net/wp-content/uploads/2023/01/sc1.png)
 
 ---
----
----
+<br/><br/>
+<br/><br/>
+
 ![sc2](http://jacob-yo.net/wp-content/uploads/2023/01/sc2.png)
 ### connecting Google Oauth
 
