@@ -17,3 +17,14 @@ Stellaiam smart contract address on mumbai test net : 0x423B1375cdD7041AA9d4C54D
 [mumbai scan 0x423B1375cdD7041AA9d4C54D039AAA00f9C12FD5](https://mumbai.polygonscan.com/address/0x423b1375cdd7041aa9d4c54d039aaa00f9c12fd5)
 ***
 ![sc1](http://jacob-yo.net/wp-content/uploads/2023/01/sc1.png)
+![sc2](http://jacob-yo.net/wp-content/uploads/2023/01/sc2.png)
+![sc3](http://jacob-yo.net/wp-content/uploads/2023/01/sc3.png)
+![sc4](http://jacob-yo.net/wp-content/uploads/2023/01/sc4.png)
+![sc5](http://jacob-yo.net/wp-content/uploads/2023/01/sc5.png)
+![sc6](http://jacob-yo.net/wp-content/uploads/2023/01/sc6.png)
+![sc7](http://jacob-yo.net/wp-content/uploads/2023/01/sc7.png)
+![sc8](http://jacob-yo.net/wp-content/uploads/2023/01/sc8.png)
+![sc9](http://jacob-yo.net/wp-content/uploads/2023/01/sc9.png)
+![sc10](http://jacob-yo.net/wp-content/uploads/2023/01/sc10.png)
+![sc11](http://jacob-yo.net/wp-content/uploads/2023/01/sc11.png)
+
