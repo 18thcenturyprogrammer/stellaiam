@@ -16,12 +16,26 @@ Stellaiam smart contract address on mumbai test net : 0x423B1375cdD7041AA9d4C54D
 
 [mumbai scan 0x423B1375cdD7041AA9d4C54D039AAA00f9C12FD5](https://mumbai.polygonscan.com/address/0x423b1375cdd7041aa9d4c54d039aaa00f9c12fd5)
 ***
+# Screen shots
+
 ![sc1](http://jacob-yo.net/wp-content/uploads/2023/01/sc1.png)
+###connecting metamask wallet (above)
+
 ![sc2](http://jacob-yo.net/wp-content/uploads/2023/01/sc2.png)
+### connecting Google Oauth (above)
+
 ![sc3](http://jacob-yo.net/wp-content/uploads/2023/01/sc3.png)
+### retrieved data from Google (above)
+
 ![sc4](http://jacob-yo.net/wp-content/uploads/2023/01/sc4.png)
+### user select data which will be exposed in Soul bound token
+
 ![sc5](http://jacob-yo.net/wp-content/uploads/2023/01/sc5.png)
+### minting Soul bound token
+
 ![sc6](http://jacob-yo.net/wp-content/uploads/2023/01/sc6.png)
+### paying fee and send transaction to smart contract
+
 ![sc7](http://jacob-yo.net/wp-content/uploads/2023/01/sc7.png)
 ![sc8](http://jacob-yo.net/wp-content/uploads/2023/01/sc8.png)
 ![sc9](http://jacob-yo.net/wp-content/uploads/2023/01/sc9.png)
