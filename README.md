@@ -7,6 +7,8 @@ This project's name is Stellaiam. Users connect their wallet and they can choose
 
 SBT will be made with data only from trustworthy big tech company, so others can believe the SBT from user. 
 
+In addition, SBT is not transferable ,so only original owner can have the soul bount token.
+
 
 Let's talk abut real life example, Bob got the wallet address of Alice, and he wants to send some eth, but before sending he wants to make sure the wallet address is really Alice's. In this case, Bob can check Alice's SBT which shows her name on it. after that, Bob can be sure and he sends tokens to right address. 
 
